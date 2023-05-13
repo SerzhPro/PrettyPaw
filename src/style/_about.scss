@@ -128,9 +128,6 @@
         }
     }
     
-    &__count-item {
-    }
-    
     &__count {
         font-size: 40px;
         margin-bottom: 16px;
@@ -138,9 +135,6 @@
         @include lg {
             font-size: 52px;
         }
-    }
-    
-    &__count-desc {
     }
     
     &__picture {
